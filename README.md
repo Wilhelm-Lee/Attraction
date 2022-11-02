@@ -1,6 +1,6 @@
-# Welcome to Action!💪🏼
+# Welcome to Attraction!💪🏼
 
-Project: __[Action - Study - Android]__
+Project: __[Attraction - Study - Android]__
 
 Android edition of __\[Jungle - Study - Java]__. With great mobility of Android, Study can go further and farther.😎
 
